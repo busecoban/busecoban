@@ -1,6 +1,7 @@
  ![MasterHead](https://i.pinimg.com/originals/7a/ab/22/7aab226da8cf9e97f186dff79a478495.jpg)
  
- <h1 align="center">Hi 👋, I'm Buse Coban</h1>
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+, I'm Buse Coban</h1>
 <h3 align="center">Third Year Computer Science & Engineering Student</h3>
 
  I'm currently pursuing my Bachelor's degree in Computer Science & Engineering at Akdeniz University, and I'm in my third year.
@@ -8,6 +9,11 @@
  As a passionate and curious individual in the field of software development, I've gained experience in various projects and continuously strive to improve myself. I'm particularly interested in technologies like Java,Spring and Kotlin.I'm currently focusing on learning Swift.
  
  I would describe myself as a good team member. Throughout my university life, I have actively participated in various social organizations.I thrive on collaboration, enjoy acquiring new skills, and have a passion for exploring the ever-evolving world of technology.
+ 
+<div align="center">
+<p>Write something nice in my guest book:</p>
+<a href="https://github.com/fnky/fnky/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div> 
 
 - 👨‍💻 All of my projects are available at [https://github.com/busecoban?tab=repositories](https://github.com/busecoban?tab=repositories)
 
@@ -19,7 +25,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/busecoban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="busecoban" height="30" width="40" /></a>
 </p>
-
 
 
 ## 💻 Tech Stack:
@@ -41,10 +46,26 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-### 😂 Random Dev Meme
-<img src="https://api.memegen.link/images/ds/small_file/high_quality.png" width="512px"/>
+---
+[![](https://visitcount.itsvg.in/api?id=busecoban&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<div align="center">
+<p>Have a nice day!</p>
+<div>
+<img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true" alt="Smiley" align="center">
+</div>
+</div>
+
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/busecoban/count.svg" alt="hit counter" align="center">
+</div>
+
+
+
+
 
 
