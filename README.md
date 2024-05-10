@@ -12,7 +12,7 @@
  
 <div align="center">
 <p>Write something nice in my guest book:</p>
-<a href="https://github.com/fnky/fnky/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/busecoban/busecoban/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div> 
 
 - 👨‍💻 All of my projects are available at [https://github.com/busecoban?tab=repositories](https://github.com/busecoban?tab=repositories)
