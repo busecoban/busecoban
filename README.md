@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **buseccoban@gmail.com**
 
-- 📄 You can find my CV [here](https://drive.google.com/file/d/1wg0YbNKN5409jzDYkZGuzVpCh-J3lejA/view?usp=sharing)
+- 📄 You can find my CV [here](https://flowcv.com/resume/tqw7o1h7bh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
