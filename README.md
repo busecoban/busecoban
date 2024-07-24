@@ -2,11 +2,11 @@
  
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 , I'm Buse Coban</h1>
-<h3 align="center">Third Year Computer Science & Engineering Student</h3>
+<h3 align="center">Fourth Year Computer Science & Engineering Student</h3>
 
  I'm currently pursuing my Bachelor's degree in Computer Science & Engineering at Akdeniz University, and I'm in my third year.
  
- As a passionate and curious individual in the field of software development, I've gained experience in various projects and continuously strive to improve myself. I'm particularly interested in technologies like Java,Spring and Kotlin.I'm currently focusing on learning Swift.
+ As a passionate and curious individual in the field of software development, I've gained experience in various projects and continuously strive to improve myself. I'm particularly interested in technologies like Java,Spring and Kotlin.I'm currently focusing on learning Vue.
  
  I would describe myself as a good team member. Throughout my university life, I have actively participated in various social organizations.I thrive on collaboration, enjoy acquiring new skills, and have a passion for exploring the ever-evolving world of technology.
  
@@ -46,7 +46,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 
 
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 
