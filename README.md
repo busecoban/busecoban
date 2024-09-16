@@ -11,9 +11,7 @@
  I would describe myself as a good team member. Throughout my university life, I have actively participated in various social organizations.I thrive on collaboration, enjoy acquiring new skills, and have a passion for exploring the ever-evolving world of technology.
  
 <div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/busecoban/busecoban/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
-</div> 
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/busecoban?tab=repositories](https://github.com/busecoban?tab=repositories)
 
@@ -44,6 +42,7 @@
 ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 
+![GitHub Snake Animation](https://github.com/busecoban/busecoban/blob/output/snake.svg)
 
 
 ---
