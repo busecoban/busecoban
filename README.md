@@ -1,5 +1,5 @@
- ![MasterHead](https://i.pinimg.com/originals/7a/ab/22/7aab226da8cf9e97f186dff79a478495.jpg)
- 
+![Snake animation](https://raw.githubusercontent.com/{busecoban}/{busecoban}/output/github-contribution-grid-snake-dark.svg) 
+
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 , I'm Buse Coban</h1>
 <h3 align="center">Fourth Year Computer Science & Engineering Student</h3>
