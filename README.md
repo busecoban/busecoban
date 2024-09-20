@@ -1,68 +1,50 @@
-![Snake animation](https://raw.githubusercontent.com/{busecoban}/{busecoban}/output/github-contribution-grid-snake-dark.svg) 
-
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-, I'm Buse Coban</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Buse Çoban</h1>
 <h3 align="center">Fourth Year Computer Science & Engineering Student</h3>
 
- I'm currently pursuing my Bachelor's degree in Computer Science & Engineering at Akdeniz University, and I'm in my third year.
- 
- As a passionate and curious individual in the field of software development, I've gained experience in various projects and continuously strive to improve myself. I'm particularly interested in technologies like Java,Spring and Kotlin.I'm currently focusing on learning Vue.
- 
- I would describe myself as a good team member. Throughout my university life, I have actively participated in various social organizations.I thrive on collaboration, enjoy acquiring new skills, and have a passion for exploring the ever-evolving world of technology.
- 
+<p align="center">
+  I'm currently pursuing my Bachelor's degree in Computer Science & Engineering at Akdeniz University, and I'm in my fourth year.
+</p>
+
+<p align="center">
+  As a passionate and curious individual in software development, I have gained experience in various projects and continuously strive to improve myself. I am particularly interested in technologies like Java, Spring, Kotlin, and Vue 3. Currently, I'm focusing on learning Swift.
+</p>
+
+<p align="center">
+  I would describe myself as a collaborative and proactive team member. Throughout my university life, I have actively participated in various social organizations. I thrive on teamwork, love acquiring new skills, and am passionate about exploring the ever-evolving world of technology.
+</p>
+
 <div align="center">
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/busecoban?tab=repositories](https://github.com/busecoban?tab=repositories)
-
-- 📫 How to reach me **buseccoban@gmail.com**
-
+  <h3>📫 How to reach me: <a href="mailto:buseccoban@gmail.com">buseccoban@gmail.com</a></h3>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/busecoban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="busecoban" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/busecoban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="busecoban" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/buseccoban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="buseccoban" height="30" width="40" /></a>
 </p>
 
 
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![GitHub Snake Animation](https://github.com/busecoban/busecoban/blob/output/snake.svg)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=busecoban&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=busecoban&theme=transparent&hide_border=true)<br/>
 
-
----
-
-
-
-<div align="center">
-<p>Have a nice day!</p>
-<div>
-<img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true" alt="Smiley" align="center">
-</div>
-</div>
-
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/busecoban/count.svg" alt="hit counter" align="center">
-</div>
-
-
-
-
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=busecoban&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
