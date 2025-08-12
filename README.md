@@ -1,9 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Buse Çoban</h1>
-<h3 align="center">Fourth Year Computer Science & Engineering Student</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <p align="center">
-  I'm currently pursuing my Bachelor's degree in Computer Science & Engineering at Akdeniz University, and I'm in my fourth year.
-</p>
+  I'm a Computer Science & Engineering graduate from Akdeniz University with hands-on experience in <b>backend, frontend, mobile development, IoT systems, and cloud solutions
 
 <p align="center">
   As a passionate and curious individual in software development, I have gained experience in various projects and continuously strive to improve myself. I am particularly interested in technologies like Java, Spring, Kotlin, and Vue 3. Currently, I'm focusing on learning Swift.
